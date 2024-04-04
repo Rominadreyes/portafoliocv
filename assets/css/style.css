@@ -1,0 +1,15 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+.barra{
+    color: white;
+}
+
+.barra:hover{
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+}
+
