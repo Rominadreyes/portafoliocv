@@ -13,3 +13,30 @@ html{
     color: black;
 }
 
+.Iguana-secundaria{
+    display: flex;
+    width: 1280px;
+    height: 348px;
+    margin: 0 auto;
+    background-color: black;
+    justify-content: space-between;
+    gap: 106px;
+    
+    
+}
+
+.Iguana-secundaria p{
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-size: 1rem;
+    padding-left: 150px;
+    padding-top: 76px;
+
+}
+
+.Iguana-secundaria img{
+    width: 399px;
+    height: 237px;
+    padding-right: 150px;
+    padding-top: 45px;
+}
